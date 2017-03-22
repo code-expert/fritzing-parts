@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" id="DDPAK" version="1.1" height="8.5580893" gorn="0" width="32.492039" viewBox="0 0 32.595189 8.6317073" >
+    <desc id="desc3" >
+        <referenceFile id="referenceFile5" >b.svg</referenceFile>
+    </desc>
+    <metadata id="metadata18" >
+        <RDF id="RDF4" >
+            <Work id="Work6" about="" >
+                <format id="format8" >image/svg+xml</format>
+                <type id="type10" resource="http://purl.org/dc/dcmitype/StillImage" />
+                <title id="title12" />
+            </Work>
+        </RDF>
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs16" >
+        <linearGradient id="linearGradient5540" paint="solid" >
+            <stop id="stop5542" style="stop-color:#000000;stop-opacity:1;" offset="0" />
+        </linearGradient>
+    </defs>
+    <g transform="translate(-2.7629959,2.4557224)" >
+        <g >
+            <g >
+                <g >
+                    <g id="g14" gorn="0.3.0.0.0.0" >
+                        <g id="g16" gorn="0.3.0.0.0.0.0" >
+                            <g id="g18" gorn="0.3.0.0.0.0.0.0" >
+                                <g id="g20" gorn="0.3.0.0.0.0.0.0.0" >
+                                    <g id="copper1" gorn="0.3.0.0.0.0.0.0.0.0" >
+                                        <g id="copper0" gorn="0.3.0.0.0.0.0.0.0.0.0" >
+                                            <g >
+                                                <rect rx="1.772" id="connector4pin" stroke="none" fill-opacity="1" height="3.5439999" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0" width="3.5439999" fill="#f7bd13" y="0" x="5.1399999" style="fill-rule:nonzero;" />
+                                                <rect rx="1.772" ry="1.772" id="connector3pin" stroke="none" fill-opacity="1" height="3.5439999" gorn="0.3.0.0.0.0.0.0.0.0.0.0.1" width="3.5439999" fill="#f7bd13" y="0" x="11.1636" style="fill-rule:nonzero;" />
+                                                <rect rx="1.772" ry="1.772" id="connector1pad" stroke="none" fill-opacity="1" height="3.5439999" gorn="0.3.0.0.0.0.0.0.0.0.0.0.2" width="3.5439999" fill="#f7bd13" y="0" x="17.188" style="fill-rule:nonzero;" />
+                                                <rect rx="1.772" ry="1.772" id="connector2pad" stroke="none" fill-opacity="1" height="3.5439999" gorn="0.3.0.0.0.0.0.0.0.0.0.0.3" width="3.5439999" fill="#f7bd13" y="0" x="23.212999" style="fill-rule:nonzero;" />
+                                                <rect rx="1.772" ry="1.772" id="connector0pad" stroke="none" fill-opacity="1" height="3.5439999" gorn="0.3.0.0.0.0.0.0.0.0.0.0.4" width="3.5439999" fill="#f7bd13" y="0" x="29.238001" style="fill-rule:nonzero;" />
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0.43525941,0.43851805)" >
+        <g >
+            <g >
+                <g >
+                    <g id="layer1" gorn="0.4.0.0.0.0" >
+                        <g transform="matrix(1.0086022,0,0,1.0086022,-0.08522932,0)" >
+                            <g >
+                                <g >
+                                    <g >
+                                        <rect id="rect3814" stroke="#000000" stroke-width="1" height="7.5580893" gorn="0.4.0.0.0.0.0.0.0.0.0" width="31.492039" fill="none" y="0.065221995" x="0.054768763" style="stroke-linejoin:round;" stroke-opacity="0.76610172" />
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="1.4in"
+   height="0.60000002in"
+   viewBox="0 0 35.56 15.24"
+   id="svg2">
+  <desc
+     id="desc4">
+    <referenceFile
+       id="referenceFile6">LM2575_shem.svg</referenceFile>
+  </desc>
+  <metadata
+     id="metadata102">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs100" />
+  <rect
+     width="25.0825"
+     height="9.8424997"
+     x="5.23875"
+     y="0.15875"
+     id="rect9"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.3175;stroke-linecap:round" />
+  <line
+     y1="10.102519"
+     id="line8"
+     x2="12.685299"
+     stroke="#787878"
+     stroke-width="0.246944"
+     gorn="0.4"
+     fill="none"
+     class="pin"
+     y2="15.182519"
+     style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+     x1="12.682361" />
+  <line
+     y1="2.5576396"
+     id="line30"
+     x2="5.2034702"
+     stroke="#787878"
+     stroke-width="0.246944"
+     gorn="0.5"
+     fill="none"
+     class="pin"
+     y2="2.5576396"
+     style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+     x1="0.123472" />
+  <rect
+     width="0.20979914"
+     height="0.246944"
+     x="-0.14111111"
+     y="2.4341676"
+     id="connector0pin" />
+  <line
+     y1="2.5576396"
+     id="line36"
+     x2="35.436501"
+     stroke="#787878"
+     stroke-width="0.246944"
+     gorn="0.7"
+     fill="none"
+     class="pin"
+     y2="2.5576396"
+     style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+     x1="30.356501" />
+  <line
+     y1="5.0976396"
+     id="line40"
+     x2="35.438313"
+     stroke="#787878"
+     stroke-width="0.246944"
+     gorn="0.8"
+     fill="none"
+     class="pin"
+     y2="5.0976396"
+     style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+     x1="30.358309" />
+  <rect
+     width="0.0106539"
+     height="0.00049388799"
+     x="17.774599"
+     y="4.6632299"
+     id="rect42" />
+  <line
+     y1="10.071521"
+     id="line48"
+     x2="22.842361"
+     stroke="#787878"
+     stroke-width="0.246944"
+     gorn="0.10"
+     fill="none"
+     class="pin"
+     y2="15.151521"
+     style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round"
+     x1="22.842361" />
+  <rect
+     width="0.00049388799"
+     height="0.0106539"
+     x="17.9032"
+     y="2.5346799"
+     id="rect50" />
+  <g
+     transform="translate(-0.03864304,1.5463192)"
+     id="g16">
+    <g
+       id="g18">
+      <g
+         id="g20">
+        <g
+           id="g22">
+          <g
+             id="g24">
+            <g
+               id="g26">
+              <g
+                 id="label"
+                 style="font-size:0.119419px;line-height:382.99982548%;text-anchor:middle;fill:#000000;stroke:none;font-family:Droid Sans">
+                <text
+                   x="17.760077"
+                   y="4.5417156"
+                   id="tspan3144"
+                   style="font-size:2.82222223px;font-weight:normal;line-height:382.99982548%;-inkscape-font-specification:Droid Sans">LM2576</text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <text
+     x="17.9387"
+     y="4.4390998"
+     id="text94"
+     style="font-size:0.42313901px;text-anchor:middle;font-family:Droid Sans" />
+  <text
+     x="17.9387"
+     y="6.0384002"
+     id="text96"
+     style="font-size:0.42313901px;text-anchor:middle;font-family:Droid Sans" />
+  <rect
+     width="0.22577778"
+     height="0.246944"
+     x="12.558888"
+     y="15.026387"
+     id="connector1pin" />
+  <rect
+     width="0.22577778"
+     height="0.246944"
+     x="22.718889"
+     y="15.019548"
+     id="connector4pin" />
+  <rect
+     width="0.20360833"
+     height="0.23456238"
+     x="35.350376"
+     y="4.9865494"
+     id="connector2pin" />
+  <rect
+     width="0.2345624"
+     height="0.23456237"
+     x="35.317478"
+     y="2.4465492"
+     id="connector3pin" />
+  <g
+     id="text3145"
+     xml:space="preserve"
+     style="font-size:1.41111004px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+       x="5.7945948"
+       y="3.1748629"
+       id="tspan3008"
+       style="font-size:1.69333339px;fill:#999999">VIN</text>
+</g>  <g
+     id="text3145-3"
+     xml:space="preserve"
+     style="font-size:1.41111004px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+       x="20.79702"
+       y="3.174036"
+       id="tspan3006"
+       style="font-size:1.69333339px;fill:#999999">FEEDBACK</text>
+</g>  <g
+     id="text3145-6"
+     xml:space="preserve"
+     style="font-size:1.41111004px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+       x="22.927742"
+       y="5.714036"
+       id="tspan3010"
+       style="font-size:1.69333339px;fill:#999999">OUTPUT</text>
+</g>  <g
+     id="text3145-7"
+     xml:space="preserve"
+     style="font-size:1.41111004px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+       x="19.573931"
+       y="9.5642366"
+       id="tspan3014"
+       style="font-size:1.69333339px;fill:#999999">ON-OFF</text>
+</g>  <g
+     id="text3145-5"
+     xml:space="preserve"
+     style="font-size:1.41111004px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><text
+       x="10.744516"
+       y="9.5642366"
+       id="tspan3012"
+       style="font-size:1.69333339px;fill:#999999">GND</text>
+</g></svg>
